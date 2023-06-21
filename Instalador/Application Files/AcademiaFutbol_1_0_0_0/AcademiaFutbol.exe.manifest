@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AcademiaFutbol.exe" version="1.0.0.0" publicKeyToken="fee5032c07e32d54" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AcademiaFutbol" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AcademiaFutbol.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AcademiaFutbol.exe" size="228320">
+      <assemblyIdentity name="AcademiaFutbol" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+LyIb27rjLK2q8qHUMdFqA2S64DnjXHAdfgOTtr6bI8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AcademiaFutbol.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-9JKKC2SP\jeac1" issuerKeyHash="acc8c883f679365bdc135310cfa56d92f14bb479" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/KQJ3XJZ/UrfQzHs29Adlzp5aNi7qreG1zbAS06ZFAg=</DigestValue></Reference></SignedInfo><SignatureValue>BRJxl+h1WKlTC7sFUzng91nTg7cgip2lVK01QaFwHI8n5EXSgJng796S0sKAJawqFuSnD7DTB4xfvmN/Kgc6ND5oIi+owW35bsDL801MSfVAZEkNa2kGBTU7+apQoUEzG1n1HUjqfZWt2Vee/gOG4DKOMkdT6/Mi5rL+GgGV3sM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3LUmapDtN+XxTifgzYiKjBFnZRz5y7ymVF3YKPGs9y4L+62eWP0s/6wwWtAlyMZV9vGhuSVYYbaazAqPtKgTvRAEeYepIit7DB6yJnluC4M3vWP3pF2ryCzjBxW7hAwy7augIYcnaV+tJEc2la7EukJ+oDEcukJ2NWH/grc4XL0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0814994e4bc036d786b7aabbd868793a971dd0dbec3143df4afd5972dd09a4fc" Description="" Url=""><as:assemblyIdentity name="AcademiaFutbol.exe" version="1.0.0.0" publicKeyToken="fee5032c07e32d54" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-9JKKC2SP\jeac1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>N5pRObHsQy9pFKO7ljmDX5yUW6hy1A1Umci4TDcGBzA=</DigestValue></Reference></SignedInfo><SignatureValue>lUm+hECniG5dtSiELg6IBpxpsquGJkGVZ7tn1J6TLOvidYbghmheEMeqd9V/Oxw8jxNs0TdwirkoiZMtfBew+U3W79EnIM1cJ+yF6kPDKGrr1wxnaZHqAeIO8sWxNGx4xmuMfHWFJhAjOwcdOvbJvc0q8TstI32nCVuzttT67Pg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3LUmapDtN+XxTifgzYiKjBFnZRz5y7ymVF3YKPGs9y4L+62eWP0s/6wwWtAlyMZV9vGhuSVYYbaazAqPtKgTvRAEeYepIit7DB6yJnluC4M3vWP3pF2ryCzjBxW7hAwy7augIYcnaV+tJEc2la7EukJ+oDEcukJ2NWH/grc4XL0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQb9kQjYLA5I1C8rf7n5HLaTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQA5AEoASwBLAEMAMgBTAFAAXABqAGUAYQBjADEwHhcNMjMwNTIzMjIwMjM4WhcNMjQwNTIzMDQwMjM4WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQA5AEoASwBLAEMAMgBTAFAAXABqAGUAYQBjADEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANy1JmqQ7Tfl8U4n4M2IiowRZ2Uc+cu8plRd2CjxrPcuC/utnlj9LP+sMFrQJcjGVfbxobklWGG2mswKj7SoE70QBHmHqSIrewwesiZ5bguDN71j96Rdq8gs4wcVu4QMMu2roCGHJ2lfrSRHNpWuxLpCfqAxHLpCdjVh/4K3OFy9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAJ6zAcO1ZFBchYpKiZzrfaXdOE1d+AzVnP6m9viiZTOUg4ziriH+sLhpds2A5frsAK9gSLYXADIZOAEhsoL+qlBVHmc/sODcvuGCNdJsV4iEUCFVMRtkfqZ60Zaox0faH1VvrP/gSna2JfiSs86gQdJvr3GStc+e9yVB2njIOGrY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

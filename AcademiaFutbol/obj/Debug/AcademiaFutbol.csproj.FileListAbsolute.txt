@@ -1,0 +1,46 @@
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\bin\Debug\AcademiaFutbol.exe.config
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\bin\Debug\AcademiaFutbol.exe
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\bin\Debug\AcademiaFutbol.pdb
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.AssemblyReference.cache
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.SuggestedBindingRedirects.cache
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AcademiaFutbol.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonUsuarios.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.Login.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.Properties.Resources.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.GenerateResource.cache
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.CoreCompileInputs.cache
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.exe
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.pdb
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonPadres.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonProfesores.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonAlumnos.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonProveedores.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonCompras.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonInventario.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonHistorialPagos.resources
+E:\FACULTAD\8vo\PROYECTO\AcademiaFutbol\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonPagos.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\bin\Debug\AcademiaFutbol.exe.config
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\bin\Debug\AcademiaFutbol.exe.manifest
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\bin\Debug\AcademiaFutbol.application
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\bin\Debug\AcademiaFutbol.exe
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\bin\Debug\AcademiaFutbol.pdb
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.AssemblyReference.cache
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AcademiaFutbol.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonAlumnos.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonHistorialPagos.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonCompras.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonPagos.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonInventario.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonProveedores.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonProfesores.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonPadres.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.AdmonUsuarios.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.Login.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.Properties.Resources.resources
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.GenerateResource.cache
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.csproj.CoreCompileInputs.cache
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.exe.manifest
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.application
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.exe
+C:\Users\jeac1\OneDrive\Documentos\Octavo Semestre\PI2\AcademiaFutbol\obj\Debug\AcademiaFutbol.pdb
